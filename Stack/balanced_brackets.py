@@ -22,5 +22,3 @@ def isBalanced(s):
 	if stk == [] :
 		return "YES"
 	return "NO"
-
-print(isBalanced('{(([])[])[]}[]'))
