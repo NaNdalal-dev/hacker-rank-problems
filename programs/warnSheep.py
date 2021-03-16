@@ -14,5 +14,3 @@ def warn_the_sheep(queue):
 			return warining
 
 		i += 1
-
-print(warn_the_sheep(['sheep', 'wolf', 'sheep']))
